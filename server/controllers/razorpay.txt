@@ -1,0 +1,1 @@
+click BuyNow -> order created -> Razorpay modal -> successfull transaction -> webhook setup in razorpay account(given link hit on particular work done) 
